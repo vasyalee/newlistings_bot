@@ -6,6 +6,7 @@ def store_listing(file, symbol):
         json.dump(symbol, f, indent=4)
 
 def load_listings(file):
+    #Update info in json file
     with open(file, 'r+') as f:
         return json.load(f)
  
