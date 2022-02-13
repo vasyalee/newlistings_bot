@@ -1,3 +1,4 @@
+# This file saves newly found listings into json
 import json
 
 def store_listing(file, symbol):

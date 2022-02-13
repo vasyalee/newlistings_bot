@@ -1,3 +1,4 @@
+# Email loader configuration
 SEND_NOTIFICATIONS: True
   EMAIL_ADDRESS: 
   EMAIL_PASSWORD: 
